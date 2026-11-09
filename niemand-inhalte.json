@@ -1,22 +1,49 @@
 {
-  "ausgabe" : 1,
-  "datum" : "2026-11-09T00:12:28Z",
+  "ausgabe" : 2,
+  "datum" : "2026-11-09T03:06:46Z",
   "essays" : [
     {
       "id" : "e-suche",
       "text" : "Irgendwann taucht der Gedanke auf, dass etwas fehlt. Nicht dieses oder jenes, sondern etwas Grundsätzliches. Als ob das Leben einen Hintergrund hätte, der noch nicht gefunden ist, eine Ruhe, die noch kommen müsste.\n\nDaraus wird eine Suche. Man liest, hört zu, fährt zu Treffen, sitzt still. Manchmal scheint es näher zu kommen, dann wieder nicht. Die Suche hat eine Richtung: von hier nach dort, von unvollständig zu vollständig, von jetzt zu später.\n\nWas dabei selten auffällt: Die Suche setzt jemanden voraus, der sucht. Ein Ich, das hier steht und dorthin will. Und genau dieses Ich ist das Einzige, das nie gefunden wird, so genau man auch hinschaut. Es gibt Gedanken, Empfindungen, Geräusche, Sehen. Einen Besitzer davon gibt es nicht.\n\nDas ist keine Erkenntnis, die man haben könnte. Wer sollte sie haben? Es ist auch kein Zustand, der erreicht wird, wenn man nur lange genug sucht. Die Suche führt nicht dahin, weil es kein Dahin gibt.\n\nDas klingt hoffnungslos, und für die Suche ist es das auch. Für das, was geschieht, ändert es nichts. Kaffee wird getrunken. Der Regen fällt. Die Suche geschieht ebenfalls, solange sie geschieht. Niemand hat sie begonnen, und niemand muss sie beenden.",
-      "titel" : "Die Suche, die niemand beginnt"
+      "titel" : "Die Suche, die niemand beginnt",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "At some point the thought turns up that something is missing. Not this or that, but something fundamental. As if life had a background that has not been found yet, a stillness that still has to come.\n\nA search grows out of it. One reads, listens, travels to meetings, sits still. Sometimes it seems to come closer, then again not. The search has a direction: from here to there, from incomplete to complete, from now to later.\n\nWhat rarely gets noticed: the search presupposes someone who searches. An I that stands here and wants to get there. And this very I is the one thing that is never found, however closely one looks. There are thoughts, sensations, sounds, seeing. There is no owner of them.\n\nThis is not an insight one could have. Who would have it? Nor is it a state that is reached if one only searches long enough. The search does not lead there, because there is no there.\n\nThat sounds hopeless, and for the search it is. For what is happening it changes nothing. Coffee is drunk. The rain falls. The search happens too, as long as it happens. No one began it, and no one has to end it.",
+          "titel" : "The search no one begins"
+        }
+      }
     },
     {
       "id" : "e-dies",
       "text" : "Es gibt eine alte Vorstellung, dass hinter dem, was erscheint, etwas Eigentliches liegt. Ein Grund, ein Bewusstsein, eine Wirklichkeit, die wahrer wäre als das Geräusch der Straße oder das Gewicht der Tasse in der Hand.\n\nHier wird nichts davon behauptet. Es gibt kein Dahinter. Was erscheint, erscheint, und es zeigt auf nichts außer auf sich selbst. Der Stuhl ist kein Zeichen für etwas Höheres. Die Traurigkeit ist keine Lektion.\n\nDas ist schwer zu hören, weil es nichts anbietet. Keine Methode, kein Fortschritt, keine Belohnung für Geduld. Wer darin eine neue Lehre sucht, findet nur das, was sowieso schon da ist: dies.\n\nUnd dies braucht niemanden, der es bemerkt. Es ist nicht das Erleben von jemandem. Es ist einfach, ohne Mitte und ohne Rand, ohne dass es dafür jemanden bräuchte, der es versteht.\n\nVielleicht bleibt danach eine Frage. Auch sie ist dies. Sie muss nicht beantwortet werden.",
-      "titel" : "Dies, und sonst nichts"
+      "titel" : "Dies, und sonst nichts",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There is an old idea that behind what appears lies something real. A ground, a consciousness, a reality that would be truer than the noise of the street or the weight of the cup in the hand.\n\nNothing of the sort is claimed here. There is no behind. What appears appears, and it points to nothing but itself. The chair is not a sign of something higher. The sadness is not a lesson.\n\nThat is hard to hear, because it offers nothing. No method, no progress, no reward for patience. Whoever looks for a new teaching in it finds only what is already there anyway: this.\n\nAnd this needs no one to notice it. It is not someone’s experience. It simply is, without centre and without edge, without needing anyone who understands it.\n\nPerhaps a question remains afterwards. It too is this. It does not have to be answered.",
+          "titel" : "This, and nothing else"
+        }
+      }
     }
   ],
   "gespraeche" : [
     {
       "id" : "g-d7c6fe",
       "titel" : "Neues Gespräch",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "New conversation",
+          "zeilen" : [
+            {
+              "text" : "Is there an I?",
+              "wer" : "F"
+            },
+            {
+              "text" : "No.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Gitbt es ein Ich?",
@@ -31,6 +58,37 @@
     {
       "id" : "d01",
       "titel" : "Wie komme ich dahin test?",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "How do I get there test?",
+          "zeilen" : [
+            {
+              "text" : "I have been listening for years, and I understand it. But I am not there yet. How do I get there?",
+              "wer" : "F"
+            },
+            {
+              "text" : "There is no there. And there is no one who could get there.",
+              "wer" : "A"
+            },
+            {
+              "text" : "You always say that. But there must be something I can do.",
+              "wer" : "F"
+            },
+            {
+              "text" : "This “there must be something I can do” is the I. It is the feeling of being separate from what is, and so of needing a bridge. There is no bridge, because there are not two shores.",
+              "wer" : "A"
+            },
+            {
+              "text" : "That is frustrating.",
+              "wer" : "F"
+            },
+            {
+              "text" : "Yes. For the I it is hopeless. That is not bad. It is just how it is.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Ich höre seit Jahren zu, und ich verstehe es. Aber ich bin noch nicht da. Wie komme ich dahin?",
@@ -61,6 +119,37 @@
     {
       "id" : "d02",
       "titel" : "Ist das nicht einfach Nihilismus?",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Isn’t this just nihilism?",
+          "zeilen" : [
+            {
+              "text" : "If nothing has meaning and no one is there, why get up at all?",
+              "wer" : "F"
+            },
+            {
+              "text" : "Who would not get up?",
+              "wer" : "A"
+            },
+            {
+              "text" : "Well, me.",
+              "wer" : "F"
+            },
+            {
+              "text" : "Getting up happens, or it doesn’t. There is no one who decides that. Nihilism is a position someone takes. Here there is no one who would have a position.",
+              "wer" : "A"
+            },
+            {
+              "text" : "But you live a completely normal life too.",
+              "wer" : "F"
+            },
+            {
+              "text" : "A life appears. Breakfast, bills, rain. None of it is a problem when there is no one for whom it could be one.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Wenn nichts eine Bedeutung hat und niemand da ist, warum dann noch aufstehen?",
@@ -91,6 +180,29 @@
     {
       "id" : "d03",
       "titel" : "Was ist mit Meditation?",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "What about meditation?",
+          "zeilen" : [
+            {
+              "text" : "I have been meditating for twenty years. Are you saying that was for nothing?",
+              "wer" : "F"
+            },
+            {
+              "text" : "It was neither for nothing nor for something. It happened. Meditation is something that happens, like brushing teeth. Only the promise that it leads somewhere is the story of the I.",
+              "wer" : "A"
+            },
+            {
+              "text" : "So should I stop?",
+              "wer" : "F"
+            },
+            {
+              "text" : "Who would stop? Perhaps meditation keeps happening. Perhaps not. It doesn’t matter, and that is not meant dismissively. It is freedom.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Ich meditiere seit zwanzig Jahren. Sagst du, das war umsonst?",
@@ -113,6 +225,29 @@
     {
       "id" : "d04",
       "titel" : "Was ist bei dir passiert?",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "What happened to you?",
+          "zeilen" : [
+            {
+              "text" : "What happened to you?",
+              "wer" : "F"
+            },
+            {
+              "text" : "Nothing happened to me. There was a feeling of being someone, and that feeling fell away. Not for me. There was simply no longer anyone to whom something happened.",
+              "wer" : "A"
+            },
+            {
+              "text" : "And what does that feel like?",
+              "wer" : "F"
+            },
+            {
+              "text" : "It doesn’t feel like anything. Feelings appear. But there is no centre that has them. It is more as if a pressure were gone that had never been noticed, because it was always there.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Was ist bei dir passiert?",
@@ -135,6 +270,29 @@
     {
       "id" : "d05",
       "titel" : "Warum redest du dann überhaupt?",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Then why do you talk at all?",
+          "zeilen" : [
+            {
+              "text" : "If it helps no one, why do you sit here and talk?",
+              "wer" : "F"
+            },
+            {
+              "text" : "Talking happens. There is no reason for it. It is like wind going through trees. The wind has nothing to tell the trees.",
+              "wer" : "A"
+            },
+            {
+              "text" : "But it sounds like a message.",
+              "wer" : "F"
+            },
+            {
+              "text" : "It sounds like that because an I hears a message. There is no message here. It is a description of what is obvious when no one is there.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Wenn es niemandem hilft, warum sitzt du dann hier und redest?",
@@ -157,6 +315,29 @@
     {
       "id" : "d06",
       "titel" : "Ich habe Angst, mich zu verlieren.",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "I’m afraid of losing myself.",
+          "zeilen" : [
+            {
+              "text" : "When I listen to you, fear comes up. As if I could lose myself.",
+              "wer" : "F"
+            },
+            {
+              "text" : "The I cannot lose itself, because it never had anything that could be lost. The fear is real as energy. But there is no one it belongs to.",
+              "wer" : "A"
+            },
+            {
+              "text" : "That doesn’t reassure me.",
+              "wer" : "F"
+            },
+            {
+              "text" : "No. Nothing here is meant to reassure. Reassurance would again be something for someone.",
+              "wer" : "A"
+            }
+          ]
+        }
+      },
       "zeilen" : [
         {
           "text" : "Wenn ich dir zuhöre, kommt Angst. Als könnte ich mich verlieren.",
@@ -181,152 +362,302 @@
     {
       "id" : "p01",
       "text" : "Es gibt niemanden, der dies liest. Es passiert scheinbar Lesen.",
-      "thema" : "ich"
+      "thema" : "ich",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There is no one reading this. Reading seems to be happening."
+        }
+      }
     },
     {
       "id" : "p02",
       "text" : "Das Ich ist kein Ding, das man loswerden könnte. Es ist ein Gefühl von Getrenntheit, das real erscheint und keine Substanz hat.",
-      "thema" : "ich"
+      "thema" : "ich",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The I is not a thing that could be got rid of. It is a sense of separation that appears real and has no substance."
+        }
+      }
     },
     {
       "id" : "p03",
       "text" : "Das Gefühl, jemand zu sein, ist nicht falsch. Es ist nur nicht das, was es zu sein scheint.",
-      "thema" : "ich"
+      "thema" : "ich",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The feeling of being someone is not wrong. It is just not what it seems to be."
+        }
+      }
     },
     {
       "id" : "p04",
       "text" : "Niemand hat sich je entschieden, ein Ich zu sein. Es ist erschienen, wie Wetter erscheint.",
-      "thema" : "ich"
+      "thema" : "ich",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "No one ever decided to be an I. It appeared, the way weather appears."
+        }
+      }
     },
     {
       "id" : "p05",
       "text" : "Das Ich kann sich nicht durchschauen. Das Durchschauen-Wollen ist das Ich.",
-      "thema" : "ich"
+      "thema" : "ich",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The I cannot see through itself. Wanting to see through is the I."
+        }
+      }
     },
     {
       "id" : "p06",
       "text" : "Die Suche findet nicht, weil sie das Fehlen erzeugt, das sie beheben will.",
-      "thema" : "suche"
+      "thema" : "suche",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The search does not find, because it creates the lack it wants to fix."
+        }
+      }
     },
     {
       "id" : "p07",
       "text" : "Es gibt keinen Weg, weil es niemanden gibt, der ihn gehen könnte.",
-      "thema" : "suche"
+      "thema" : "suche",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There is no path, because there is no one who could walk it."
+        }
+      }
     },
     {
       "id" : "p08",
       "text" : "Suchen ist kein Problem. Es gibt kein Problem. Suchen geschieht einfach.",
-      "thema" : "suche"
+      "thema" : "suche",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Seeking is not a problem. There is no problem. Seeking simply happens."
+        }
+      }
     },
     {
       "id" : "p09",
       "text" : "Alles, was das Ich tut, um anzukommen, bestätigt, dass es noch nicht da ist.",
-      "thema" : "suche"
+      "thema" : "suche",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Everything the I does to arrive confirms that it is not there yet."
+        }
+      }
     },
     {
       "id" : "p10",
       "text" : "Das Ende der Suche ist nicht das Finden. Es ist das Wegfallen dessen, der suchte.",
-      "thema" : "suche"
+      "thema" : "suche",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The end of the search is not finding. It is the falling away of the one who was searching."
+        }
+      }
     },
     {
       "id" : "p11",
       "text" : "Erleuchtung ist kein Zustand, den jemand erreicht. Es gibt niemanden, der sie haben könnte.",
-      "thema" : "erleuchtung"
+      "thema" : "erleuchtung",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Enlightenment is not a state that someone reaches. There is no one who could have it."
+        }
+      }
     },
     {
       "id" : "p12",
       "text" : "Niemand ist je erleuchtet worden. Das ist die gute Nachricht.",
-      "thema" : "erleuchtung"
+      "thema" : "erleuchtung",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "No one has ever become enlightened. That is the good news."
+        }
+      }
     },
     {
       "id" : "p13",
       "text" : "Was gesucht wird, ist nicht in der Zukunft. Es ist auch nicht in der Gegenwart. Es ist nirgendwo für jemanden.",
-      "thema" : "erleuchtung"
+      "thema" : "erleuchtung",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "What is sought is not in the future. Nor is it in the present. It is nowhere, for anyone."
+        }
+      }
     },
     {
       "id" : "p14",
       "text" : "Es gibt keine Stufen. Es gibt keinen Fortschritt. Es gibt nichts, das wächst.",
-      "thema" : "erleuchtung"
+      "thema" : "erleuchtung",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There are no stages. There is no progress. There is nothing that grows."
+        }
+      }
     },
     {
       "id" : "p15",
       "text" : "Dies ist nichts, das als alles erscheint.",
-      "thema" : "nichts"
+      "thema" : "nichts",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "This is nothing appearing as everything."
+        }
+      }
     },
     {
       "id" : "p16",
       "text" : "Es passiert nichts. Und das ist bereits alles.",
-      "thema" : "nichts"
+      "thema" : "nichts",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Nothing is happening. And that is already everything."
+        }
+      }
     },
     {
       "id" : "p17",
       "text" : "Leere ist kein Ort und kein Gefühl. Sie ist das Fehlen von jemandem, dem etwas fehlen könnte.",
-      "thema" : "nichts"
+      "thema" : "nichts",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Emptiness is not a place and not a feeling. It is the absence of anyone who could lack anything."
+        }
+      }
     },
     {
       "id" : "p18",
       "text" : "Es gibt keine Zeit, in der jemand ankommen könnte. Es gibt nur dies, und dies hat keine Dauer.",
-      "thema" : "zeit"
+      "thema" : "zeit",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There is no time in which someone could arrive. There is only this, and this has no duration."
+        }
+      }
     },
     {
       "id" : "p19",
       "text" : "Die Vergangenheit ist eine Geschichte, die jetzt erzählt wird. Der Erzähler ist Teil der Geschichte.",
-      "thema" : "zeit"
+      "thema" : "zeit",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The past is a story being told now. The storyteller is part of the story."
+        }
+      }
     },
     {
       "id" : "p20",
       "text" : "Niemand stirbt, weil niemand geboren wurde. Es erscheint ein Leben. Das Erscheinen gehört niemandem.",
-      "thema" : "tod"
+      "thema" : "tod",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "No one dies, because no one was born. A life appears. The appearing belongs to no one."
+        }
+      }
     },
     {
       "id" : "p21",
       "text" : "Die Angst vor dem Tod ist die Angst des Ich vor dem, was es nie war.",
-      "thema" : "tod"
+      "thema" : "tod",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The fear of death is the I’s fear of what it never was."
+        }
+      }
     },
     {
       "id" : "p22",
       "text" : "Nichts hat eine Bedeutung. Das ist nicht traurig. Traurig ist es nur für jemanden, der eine braucht.",
-      "thema" : "bedeutung"
+      "thema" : "bedeutung",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Nothing has meaning. That is not sad. It is only sad for someone who needs one."
+        }
+      }
     },
     {
       "id" : "p23",
       "text" : "Es gibt keinen Grund, warum dies geschieht. Es geschieht ohne Grund und ohne Richtung.",
-      "thema" : "bedeutung"
+      "thema" : "bedeutung",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There is no reason why this is happening. It happens without reason and without direction."
+        }
+      }
     },
     {
       "id" : "p24",
       "text" : "Dies ist es. Nicht dieses Verstehen, nicht dieses Gefühl. Einfach dies.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "This is it. Not this understanding, not this feeling. Simply this."
+        }
+      }
     },
     {
       "id" : "p25",
       "text" : "Es gibt nichts zu verstehen. Verstehen ist ein Werkzeug des Ich, und das Ich ist nicht da.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "There is nothing to understand. Understanding is a tool of the I, and the I is not there."
+        }
+      }
     },
     {
       "id" : "p26",
       "text" : "Dies ist bereits das, wonach gesucht wird. Aber es ist nicht für dich.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "This is already what is being sought. But it is not for you."
+        }
+      }
     },
     {
       "id" : "p27",
       "text" : "Was geschieht, ist vollkommen. Nicht, weil es gut ist. Weil es ohne jemanden geschieht, für den es gut oder schlecht sein könnte.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "What happens is complete. Not because it is good. Because it happens without anyone for whom it could be good or bad."
+        }
+      }
     },
     {
       "id" : "p28",
       "text" : "Nichts in dieser App kann dir helfen. Es gibt nichts zu helfen und niemanden, dem geholfen würde.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "Nothing in this app can help you. There is nothing to help and no one who would be helped."
+        }
+      }
     },
     {
       "id" : "p29",
       "text" : "Keine Praxis führt dorthin, weil es kein Dorthin gibt. Dies ist nicht der Anfang eines Weges. Es ist das Fehlen eines Weges.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "No practice leads there, because there is no there. This is not the beginning of a path. It is the absence of a path."
+        }
+      }
     },
     {
       "id" : "p30",
       "text" : "Das Ich kann dies nicht hören. Und dennoch wird es gesagt.",
-      "thema" : "dies"
+      "thema" : "dies",
+      "uebersetzungen" : {
+        "en" : {
+          "text" : "The I cannot hear this. And still it is said."
+        }
+      }
     }
   ],
   "sitzungen" : [
@@ -356,7 +687,26 @@
         "Es gibt niemanden, der zurückkehren müsste.",
         "Es endet nichts, wenn die Zeit endet."
       ],
-      "titel" : "Niemand sitzt hier"
+      "titel" : "Niemand sitzt hier",
+      "uebersetzungen" : {
+        "en" : {
+          "einleitung" : "No guidance. No breath being watched. Sentences appear and pass. Nothing is achieved.",
+          "saetze" : [
+            "No one is sitting here.",
+            "There is sitting. There are sounds. There are thoughts.",
+            "None of it belongs to anyone.",
+            "Nothing has to be watched. Watching happens, or it doesn’t.",
+            "The idea that this is going right or wrong is just another thought.",
+            "There is no progress in these minutes.",
+            "There are no minutes either.",
+            "This is already complete. Not for you.",
+            "If restlessness appears, restlessness appears.",
+            "There is no one who would have to come back.",
+            "Nothing ends when the time ends."
+          ],
+          "titel" : "No one sits here"
+        }
+      }
     },
     {
       "einleitung" : "Fünf Minuten, in denen nichts geschieht. Auch nicht das, was in Sätzen hier erscheint.",
@@ -370,7 +720,21 @@
         "Es gibt nichts zu finden, weil nichts verloren ist.",
         "Dies ist es schon."
       ],
-      "titel" : "Dies"
+      "titel" : "Dies",
+      "uebersetzungen" : {
+        "en" : {
+          "einleitung" : "Five minutes in which nothing happens. Not even what appears here in sentences.",
+          "saetze" : [
+            "This.",
+            "Not the understanding of this. Simply this.",
+            "A sound. A sensation. A thought about a sound.",
+            "No one is in the middle.",
+            "There is nothing to find, because nothing is lost.",
+            "This is already it."
+          ],
+          "titel" : "This"
+        }
+      }
     },
     {
       "einleitung" : "Länger, aber nicht tiefer. Es gibt nichts, das sich vertiefen könnte.",
@@ -391,41 +755,102 @@
         "Das Ende dieser Zeit ist nicht der Beginn von etwas anderem.",
         "Nichts ist geschehen."
       ],
-      "titel" : "Ohne Richtung"
+      "titel" : "Ohne Richtung",
+      "uebersetzungen" : {
+        "en" : {
+          "einleitung" : "Longer, but not deeper. There is nothing that could deepen.",
+          "saetze" : [
+            "There is no direction in which this is going.",
+            "Not inwards either.",
+            "The feeling of inside and outside is a border no one drew.",
+            "Whatever appears now appears without reason.",
+            "It does not have to become quiet.",
+            "Noise is no less this than silence.",
+            "There is no one waiting.",
+            "Impatience appears. There is no one who is impatient.",
+            "There is nothing that could deepen.",
+            "The search for a state is the only thing that presupposes a state.",
+            "This has no quality. It is neither peaceful nor restless.",
+            "The end of this time is not the beginning of something else.",
+            "Nothing has happened."
+          ],
+          "titel" : "Without direction"
+        }
+      }
     }
   ],
   "themen" : [
     {
       "id" : "ich",
-      "titel" : "Das Ich"
+      "titel" : "Das Ich",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "The I"
+        }
+      }
     },
     {
       "id" : "suche",
-      "titel" : "Die Suche"
+      "titel" : "Die Suche",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "The search"
+        }
+      }
     },
     {
       "id" : "erleuchtung",
-      "titel" : "Erleuchtung"
+      "titel" : "Erleuchtung",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Enlightenment"
+        }
+      }
     },
     {
       "id" : "nichts",
-      "titel" : "Nichts"
+      "titel" : "Nichts",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Nothing"
+        }
+      }
     },
     {
       "id" : "zeit",
-      "titel" : "Zeit"
+      "titel" : "Zeit",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Time"
+        }
+      }
     },
     {
       "id" : "tod",
-      "titel" : "Tod"
+      "titel" : "Tod",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Death"
+        }
+      }
     },
     {
       "id" : "bedeutung",
-      "titel" : "Bedeutung"
+      "titel" : "Bedeutung",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "Meaning"
+        }
+      }
     },
     {
       "id" : "dies",
-      "titel" : "Dies"
+      "titel" : "Dies",
+      "uebersetzungen" : {
+        "en" : {
+          "titel" : "This"
+        }
+      }
     }
   ],
   "vollstaendig" : true
