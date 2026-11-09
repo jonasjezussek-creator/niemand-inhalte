@@ -1,6 +1,6 @@
 {
-  "ausgabe" : 2,
-  "datum" : "2026-11-09T03:06:46Z",
+  "ausgabe" : 3,
+  "datum" : "2026-11-09T05:29:09Z",
   "essays" : [
     {
       "id" : "e-suche",
@@ -662,11 +662,14 @@
   ],
   "sitzungen" : [
     {
+      "audio" : "s-157fc0-bde74e87.m4a",
       "einleitung" : "",
       "id" : "s-157fc0",
       "minuten" : 10,
       "saetze" : [
-
+        "Meister Eckhart on true poverty",
+        "read by Jonas on Novemvber 9, 2026",
+        "in Washington, Pennsylvania"
       ],
       "titel" : "Neue Sitzung"
     },
