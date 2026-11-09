@@ -1,0 +1,432 @@
+{
+  "ausgabe" : 1,
+  "datum" : "2026-11-09T00:12:28Z",
+  "essays" : [
+    {
+      "id" : "e-suche",
+      "text" : "Irgendwann taucht der Gedanke auf, dass etwas fehlt. Nicht dieses oder jenes, sondern etwas Grundsätzliches. Als ob das Leben einen Hintergrund hätte, der noch nicht gefunden ist, eine Ruhe, die noch kommen müsste.\n\nDaraus wird eine Suche. Man liest, hört zu, fährt zu Treffen, sitzt still. Manchmal scheint es näher zu kommen, dann wieder nicht. Die Suche hat eine Richtung: von hier nach dort, von unvollständig zu vollständig, von jetzt zu später.\n\nWas dabei selten auffällt: Die Suche setzt jemanden voraus, der sucht. Ein Ich, das hier steht und dorthin will. Und genau dieses Ich ist das Einzige, das nie gefunden wird, so genau man auch hinschaut. Es gibt Gedanken, Empfindungen, Geräusche, Sehen. Einen Besitzer davon gibt es nicht.\n\nDas ist keine Erkenntnis, die man haben könnte. Wer sollte sie haben? Es ist auch kein Zustand, der erreicht wird, wenn man nur lange genug sucht. Die Suche führt nicht dahin, weil es kein Dahin gibt.\n\nDas klingt hoffnungslos, und für die Suche ist es das auch. Für das, was geschieht, ändert es nichts. Kaffee wird getrunken. Der Regen fällt. Die Suche geschieht ebenfalls, solange sie geschieht. Niemand hat sie begonnen, und niemand muss sie beenden.",
+      "titel" : "Die Suche, die niemand beginnt"
+    },
+    {
+      "id" : "e-dies",
+      "text" : "Es gibt eine alte Vorstellung, dass hinter dem, was erscheint, etwas Eigentliches liegt. Ein Grund, ein Bewusstsein, eine Wirklichkeit, die wahrer wäre als das Geräusch der Straße oder das Gewicht der Tasse in der Hand.\n\nHier wird nichts davon behauptet. Es gibt kein Dahinter. Was erscheint, erscheint, und es zeigt auf nichts außer auf sich selbst. Der Stuhl ist kein Zeichen für etwas Höheres. Die Traurigkeit ist keine Lektion.\n\nDas ist schwer zu hören, weil es nichts anbietet. Keine Methode, kein Fortschritt, keine Belohnung für Geduld. Wer darin eine neue Lehre sucht, findet nur das, was sowieso schon da ist: dies.\n\nUnd dies braucht niemanden, der es bemerkt. Es ist nicht das Erleben von jemandem. Es ist einfach, ohne Mitte und ohne Rand, ohne dass es dafür jemanden bräuchte, der es versteht.\n\nVielleicht bleibt danach eine Frage. Auch sie ist dies. Sie muss nicht beantwortet werden.",
+      "titel" : "Dies, und sonst nichts"
+    }
+  ],
+  "gespraeche" : [
+    {
+      "id" : "g-d7c6fe",
+      "titel" : "Neues Gespräch",
+      "zeilen" : [
+        {
+          "text" : "Gitbt es ein Ich?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Nein.",
+          "wer" : "A"
+        }
+      ]
+    },
+    {
+      "id" : "d01",
+      "titel" : "Wie komme ich dahin test?",
+      "zeilen" : [
+        {
+          "text" : "Ich höre seit Jahren zu, und ich verstehe es. Aber ich bin noch nicht da. Wie komme ich dahin?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Es gibt kein Dahin. Und es gibt niemanden, der kommen könnte.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Das sagst du immer. Aber irgendetwas muss ich doch tun können.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Dieses „irgendetwas muss ich tun können“ ist das Ich. Es ist das Gefühl, getrennt zu sein von dem, was ist, und deshalb eine Brücke zu brauchen. Es gibt keine Brücke, weil es keine zwei Ufer gibt.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Das ist frustrierend.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Ja. Für das Ich ist es hoffnungslos. Das ist nicht schlecht. Es ist einfach so.",
+          "wer" : "A"
+        }
+      ]
+    },
+    {
+      "id" : "d02",
+      "titel" : "Ist das nicht einfach Nihilismus?",
+      "zeilen" : [
+        {
+          "text" : "Wenn nichts eine Bedeutung hat und niemand da ist, warum dann noch aufstehen?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Wer würde nicht aufstehen?",
+          "wer" : "A"
+        },
+        {
+          "text" : "Na, ich.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Aufstehen geschieht, oder es geschieht nicht. Es gibt niemanden, der das entscheidet. Nihilismus ist eine Haltung, die jemand einnimmt. Hier ist niemand, der eine Haltung hätte.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Aber du lebst doch auch ein ganz normales Leben.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Es erscheint ein Leben. Frühstück, Rechnungen, Regen. Nichts davon ist ein Problem, wenn niemand da ist, für den es eines sein könnte.",
+          "wer" : "A"
+        }
+      ]
+    },
+    {
+      "id" : "d03",
+      "titel" : "Was ist mit Meditation?",
+      "zeilen" : [
+        {
+          "text" : "Ich meditiere seit zwanzig Jahren. Sagst du, das war umsonst?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Es war weder umsonst noch nicht umsonst. Es ist geschehen. Meditation ist etwas, das geschieht, wie Zähneputzen. Nur das Versprechen, dass sie irgendwohin führt, ist die Geschichte des Ich.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Also soll ich aufhören?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Wer würde aufhören? Vielleicht geschieht weiter Meditation. Vielleicht nicht. Es spielt keine Rolle, und das ist nicht abwertend gemeint. Es ist Freiheit.",
+          "wer" : "A"
+        }
+      ]
+    },
+    {
+      "id" : "d04",
+      "titel" : "Was ist bei dir passiert?",
+      "zeilen" : [
+        {
+          "text" : "Was ist bei dir passiert?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Bei mir ist nichts passiert. Es gab ein Gefühl, jemand zu sein, und dieses Gefühl ist weggefallen. Nicht für mich. Es gab einfach niemanden mehr, dem etwas passierte.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Und wie fühlt sich das an?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Es fühlt sich nicht an. Gefühle erscheinen. Aber es gibt kein Zentrum, das sie hat. Es ist eher, als wäre ein Druck weg, den man nie bemerkt hatte, weil er immer da war.",
+          "wer" : "A"
+        }
+      ]
+    },
+    {
+      "id" : "d05",
+      "titel" : "Warum redest du dann überhaupt?",
+      "zeilen" : [
+        {
+          "text" : "Wenn es niemandem hilft, warum sitzt du dann hier und redest?",
+          "wer" : "F"
+        },
+        {
+          "text" : "Reden geschieht. Es gibt keinen Grund dafür. Es ist wie Wind, der durch Bäume geht. Der Wind will den Bäumen nichts sagen.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Aber es klingt nach einer Botschaft.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Es klingt so, weil ein Ich eine Botschaft hört. Hier ist keine Botschaft. Es ist eine Beschreibung dessen, was offensichtlich ist, wenn niemand da ist.",
+          "wer" : "A"
+        }
+      ]
+    },
+    {
+      "id" : "d06",
+      "titel" : "Ich habe Angst, mich zu verlieren.",
+      "zeilen" : [
+        {
+          "text" : "Wenn ich dir zuhöre, kommt Angst. Als könnte ich mich verlieren.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Das Ich kann sich nicht verlieren, weil es nie etwas hatte, das verloren gehen könnte. Die Angst ist echt als Energie. Aber es gibt niemanden, dem sie gehört.",
+          "wer" : "A"
+        },
+        {
+          "text" : "Das beruhigt mich nicht.",
+          "wer" : "F"
+        },
+        {
+          "text" : "Nein. Hier ist nichts, das beruhigen soll. Beruhigung wäre wieder etwas für jemanden.",
+          "wer" : "A"
+        }
+      ]
+    }
+  ],
+  "hinweise" : [
+    {
+      "id" : "p01",
+      "text" : "Es gibt niemanden, der dies liest. Es passiert scheinbar Lesen.",
+      "thema" : "ich"
+    },
+    {
+      "id" : "p02",
+      "text" : "Das Ich ist kein Ding, das man loswerden könnte. Es ist ein Gefühl von Getrenntheit, das real erscheint und keine Substanz hat.",
+      "thema" : "ich"
+    },
+    {
+      "id" : "p03",
+      "text" : "Das Gefühl, jemand zu sein, ist nicht falsch. Es ist nur nicht das, was es zu sein scheint.",
+      "thema" : "ich"
+    },
+    {
+      "id" : "p04",
+      "text" : "Niemand hat sich je entschieden, ein Ich zu sein. Es ist erschienen, wie Wetter erscheint.",
+      "thema" : "ich"
+    },
+    {
+      "id" : "p05",
+      "text" : "Das Ich kann sich nicht durchschauen. Das Durchschauen-Wollen ist das Ich.",
+      "thema" : "ich"
+    },
+    {
+      "id" : "p06",
+      "text" : "Die Suche findet nicht, weil sie das Fehlen erzeugt, das sie beheben will.",
+      "thema" : "suche"
+    },
+    {
+      "id" : "p07",
+      "text" : "Es gibt keinen Weg, weil es niemanden gibt, der ihn gehen könnte.",
+      "thema" : "suche"
+    },
+    {
+      "id" : "p08",
+      "text" : "Suchen ist kein Problem. Es gibt kein Problem. Suchen geschieht einfach.",
+      "thema" : "suche"
+    },
+    {
+      "id" : "p09",
+      "text" : "Alles, was das Ich tut, um anzukommen, bestätigt, dass es noch nicht da ist.",
+      "thema" : "suche"
+    },
+    {
+      "id" : "p10",
+      "text" : "Das Ende der Suche ist nicht das Finden. Es ist das Wegfallen dessen, der suchte.",
+      "thema" : "suche"
+    },
+    {
+      "id" : "p11",
+      "text" : "Erleuchtung ist kein Zustand, den jemand erreicht. Es gibt niemanden, der sie haben könnte.",
+      "thema" : "erleuchtung"
+    },
+    {
+      "id" : "p12",
+      "text" : "Niemand ist je erleuchtet worden. Das ist die gute Nachricht.",
+      "thema" : "erleuchtung"
+    },
+    {
+      "id" : "p13",
+      "text" : "Was gesucht wird, ist nicht in der Zukunft. Es ist auch nicht in der Gegenwart. Es ist nirgendwo für jemanden.",
+      "thema" : "erleuchtung"
+    },
+    {
+      "id" : "p14",
+      "text" : "Es gibt keine Stufen. Es gibt keinen Fortschritt. Es gibt nichts, das wächst.",
+      "thema" : "erleuchtung"
+    },
+    {
+      "id" : "p15",
+      "text" : "Dies ist nichts, das als alles erscheint.",
+      "thema" : "nichts"
+    },
+    {
+      "id" : "p16",
+      "text" : "Es passiert nichts. Und das ist bereits alles.",
+      "thema" : "nichts"
+    },
+    {
+      "id" : "p17",
+      "text" : "Leere ist kein Ort und kein Gefühl. Sie ist das Fehlen von jemandem, dem etwas fehlen könnte.",
+      "thema" : "nichts"
+    },
+    {
+      "id" : "p18",
+      "text" : "Es gibt keine Zeit, in der jemand ankommen könnte. Es gibt nur dies, und dies hat keine Dauer.",
+      "thema" : "zeit"
+    },
+    {
+      "id" : "p19",
+      "text" : "Die Vergangenheit ist eine Geschichte, die jetzt erzählt wird. Der Erzähler ist Teil der Geschichte.",
+      "thema" : "zeit"
+    },
+    {
+      "id" : "p20",
+      "text" : "Niemand stirbt, weil niemand geboren wurde. Es erscheint ein Leben. Das Erscheinen gehört niemandem.",
+      "thema" : "tod"
+    },
+    {
+      "id" : "p21",
+      "text" : "Die Angst vor dem Tod ist die Angst des Ich vor dem, was es nie war.",
+      "thema" : "tod"
+    },
+    {
+      "id" : "p22",
+      "text" : "Nichts hat eine Bedeutung. Das ist nicht traurig. Traurig ist es nur für jemanden, der eine braucht.",
+      "thema" : "bedeutung"
+    },
+    {
+      "id" : "p23",
+      "text" : "Es gibt keinen Grund, warum dies geschieht. Es geschieht ohne Grund und ohne Richtung.",
+      "thema" : "bedeutung"
+    },
+    {
+      "id" : "p24",
+      "text" : "Dies ist es. Nicht dieses Verstehen, nicht dieses Gefühl. Einfach dies.",
+      "thema" : "dies"
+    },
+    {
+      "id" : "p25",
+      "text" : "Es gibt nichts zu verstehen. Verstehen ist ein Werkzeug des Ich, und das Ich ist nicht da.",
+      "thema" : "dies"
+    },
+    {
+      "id" : "p26",
+      "text" : "Dies ist bereits das, wonach gesucht wird. Aber es ist nicht für dich.",
+      "thema" : "dies"
+    },
+    {
+      "id" : "p27",
+      "text" : "Was geschieht, ist vollkommen. Nicht, weil es gut ist. Weil es ohne jemanden geschieht, für den es gut oder schlecht sein könnte.",
+      "thema" : "dies"
+    },
+    {
+      "id" : "p28",
+      "text" : "Nichts in dieser App kann dir helfen. Es gibt nichts zu helfen und niemanden, dem geholfen würde.",
+      "thema" : "dies"
+    },
+    {
+      "id" : "p29",
+      "text" : "Keine Praxis führt dorthin, weil es kein Dorthin gibt. Dies ist nicht der Anfang eines Weges. Es ist das Fehlen eines Weges.",
+      "thema" : "dies"
+    },
+    {
+      "id" : "p30",
+      "text" : "Das Ich kann dies nicht hören. Und dennoch wird es gesagt.",
+      "thema" : "dies"
+    }
+  ],
+  "sitzungen" : [
+    {
+      "einleitung" : "",
+      "id" : "s-157fc0",
+      "minuten" : 10,
+      "saetze" : [
+
+      ],
+      "titel" : "Neue Sitzung"
+    },
+    {
+      "einleitung" : "Keine Anleitung. Kein Atem, der beobachtet wird. Sätze erscheinen und vergehen. Es wird nichts erreicht.",
+      "id" : "s01",
+      "minuten" : 10,
+      "saetze" : [
+        "Es sitzt hier niemand.",
+        "Es gibt ein Sitzen. Es gibt Geräusche. Es gibt Gedanken.",
+        "Nichts davon gehört jemandem.",
+        "Es muss nichts beobachtet werden. Beobachten geschieht, oder es geschieht nicht.",
+        "Die Idee, dass dies richtig oder falsch läuft, ist nur ein weiterer Gedanke.",
+        "Es gibt keinen Fortschritt in diesen Minuten.",
+        "Es gibt auch keine Minuten.",
+        "Dies ist schon vollständig. Nicht für dich.",
+        "Wenn Unruhe erscheint, erscheint Unruhe.",
+        "Es gibt niemanden, der zurückkehren müsste.",
+        "Es endet nichts, wenn die Zeit endet."
+      ],
+      "titel" : "Niemand sitzt hier"
+    },
+    {
+      "einleitung" : "Fünf Minuten, in denen nichts geschieht. Auch nicht das, was in Sätzen hier erscheint.",
+      "id" : "s02",
+      "minuten" : 5,
+      "saetze" : [
+        "Dies.",
+        "Nicht das Verstehen von dies. Einfach dies.",
+        "Ein Geräusch. Eine Empfindung. Ein Gedanke über ein Geräusch.",
+        "Niemand ist in der Mitte.",
+        "Es gibt nichts zu finden, weil nichts verloren ist.",
+        "Dies ist es schon."
+      ],
+      "titel" : "Dies"
+    },
+    {
+      "einleitung" : "Länger, aber nicht tiefer. Es gibt nichts, das sich vertiefen könnte.",
+      "id" : "s03",
+      "minuten" : 20,
+      "saetze" : [
+        "Es gibt keine Richtung, in die dies geht.",
+        "Auch nicht nach innen.",
+        "Das Gefühl von innen und außen ist eine Grenze, die niemand gezogen hat.",
+        "Was auch immer jetzt erscheint, erscheint ohne Grund.",
+        "Es muss nicht still werden.",
+        "Lärm ist nicht weniger dies als Stille.",
+        "Es gibt niemanden, der wartet.",
+        "Ungeduld erscheint. Es gibt niemanden, der ungeduldig ist.",
+        "Es gibt nichts, das sich vertiefen könnte.",
+        "Die Suche nach einem Zustand ist das Einzige, das einen Zustand voraussetzt.",
+        "Dies hat keine Qualität. Es ist nicht friedlich und nicht unruhig.",
+        "Das Ende dieser Zeit ist nicht der Beginn von etwas anderem.",
+        "Nichts ist geschehen."
+      ],
+      "titel" : "Ohne Richtung"
+    }
+  ],
+  "themen" : [
+    {
+      "id" : "ich",
+      "titel" : "Das Ich"
+    },
+    {
+      "id" : "suche",
+      "titel" : "Die Suche"
+    },
+    {
+      "id" : "erleuchtung",
+      "titel" : "Erleuchtung"
+    },
+    {
+      "id" : "nichts",
+      "titel" : "Nichts"
+    },
+    {
+      "id" : "zeit",
+      "titel" : "Zeit"
+    },
+    {
+      "id" : "tod",
+      "titel" : "Tod"
+    },
+    {
+      "id" : "bedeutung",
+      "titel" : "Bedeutung"
+    },
+    {
+      "id" : "dies",
+      "titel" : "Dies"
+    }
+  ],
+  "vollstaendig" : true
+}
