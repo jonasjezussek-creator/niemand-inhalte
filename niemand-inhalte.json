@@ -1,6 +1,6 @@
 {
-  "ausgabe" : 3,
-  "datum" : "2026-11-09T05:29:09Z",
+  "ausgabe" : 4,
+  "datum" : "2026-11-09T05:32:08Z",
   "essays" : [
     {
       "id" : "e-suche",
@@ -663,9 +663,9 @@
   "sitzungen" : [
     {
       "audio" : "s-157fc0-bde74e87.m4a",
-      "einleitung" : "",
+      "einleitung" : "Meister Eckharts Sermon On True Poverty ready by Jonas ",
       "id" : "s-157fc0",
-      "minuten" : 10,
+      "minuten" : 25,
       "saetze" : [
         "Meister Eckhart on true poverty",
         "read by Jonas on Novemvber 9, 2026",
